@@ -1,0 +1,29 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #fffafc;
+    color: #333;
+}
+
+header {
+    background: #ff85a2;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.services,
+.contact {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #ffccd5;
+}
